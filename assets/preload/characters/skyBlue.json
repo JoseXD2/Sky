@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BlueSkydle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "BlueAltIdle"
+		},
+		{
+			"offsets": [
+				-30,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Blue!Down"
+		},
+		{
+			"offsets": [
+				26,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Blue!Right"
+		},
+		{
+			"offsets": [
+				86,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Blue!Up"
+		},
+		{
+			"offsets": [
+				86,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Blue!Left"
+		},
+		{
+			"offsets": [
+				86,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Blue!Alt!Left"
+		},
+		{
+			"offsets": [
+				86,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Blue!Alt!Up"
+		},
+		{
+			"offsets": [
+				26,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Blue!Alt!Right"
+		},
+		{
+			"offsets": [
+				-30,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Blue!Alt!Down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/skyblue",
+	"position": [
+		-70,
+		-40
+	],
+	"healthicon": "bluesky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		100,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
